@@ -59,7 +59,7 @@ hasCJKLanguage = true
 	readMore = ""
 
 	# Share
-	enableShare = true
+	enableShare = false
 	tweet = ""
 	share = ""
 
